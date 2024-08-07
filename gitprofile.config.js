@@ -2,21 +2,21 @@
 
 const config = {
   github: {
-    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
+    username: 'Dapa', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 15, // How many projects to display.
+    limit: 0, // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    twitter: 'Zeeoneofc',
-    instagram: 'Zeeoneofc',
-    dev: 'Zeeoneofc',
-    website: 'https://api.zeeoneofc.my.id',
-    phone: '+62887435047326',
-    email: 'zeeoneofc@yahoo.com',
+    twitter: '',
+    instagram: 'msdapa_',
+    dev: '',
+    website: 'https://dapamd.my.id',
+    phone: '+6285977370778',
+    email: 'dapamd@yahoo.com',
   },
   resume: {
     fileUrl:
